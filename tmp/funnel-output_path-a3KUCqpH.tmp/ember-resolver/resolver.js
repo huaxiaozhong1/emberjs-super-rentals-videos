@@ -1,0 +1,1 @@
+/home/jhua/Stuffs/tests/MyTests/Java/ember/super-rentals/tmp/funnel-input_base_path-Eq6feGgg.tmp/resolver.js

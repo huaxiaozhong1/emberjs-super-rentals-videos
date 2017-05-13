@@ -1,0 +1,1 @@
+/home/jhua/Stuffs/tests/MyTests/Java/ember/super-rentals/tmp/funnel-input_base_path-ID2EoV1K.tmp/index.js

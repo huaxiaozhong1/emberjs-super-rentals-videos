@@ -1,0 +1,1 @@
+/home/jhua/Stuffs/tests/MyTests/Java/ember/super-rentals/tmp/funnel-input_base_path-1HmQnz8J.tmp/initializer-factory.js

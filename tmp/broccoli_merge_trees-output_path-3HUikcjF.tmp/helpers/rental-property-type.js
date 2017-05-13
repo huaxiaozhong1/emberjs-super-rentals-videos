@@ -1,0 +1,1 @@
+/home/jhua/Stuffs/tests/MyTests/Java/ember/super-rentals/app/helpers/rental-property-type.js

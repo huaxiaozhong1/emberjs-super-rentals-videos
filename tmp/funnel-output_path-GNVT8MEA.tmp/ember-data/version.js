@@ -1,0 +1,1 @@
+/home/jhua/Stuffs/tests/MyTests/Java/ember/super-rentals/tmp/creator-output_path-Z4z1C96g.tmp/version.js

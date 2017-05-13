@@ -1,0 +1,1 @@
+/home/jhua/Stuffs/tests/MyTests/Java/ember/super-rentals/tmp/broccoli_merge_trees-input_base_path-oyveIsWg.tmp/3/ember-inflector/index.js

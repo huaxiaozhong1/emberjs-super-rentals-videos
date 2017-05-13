@@ -1,0 +1,34 @@
+<article class="listing">
+
+  <div class="entry" {{action 'toggleImageSize'}} >
+    {{#if isWide}}
+    <video controls="controls" autoplay muted="muted" loop >
+       <source src="{{rental.video}}" alt="" >
+    </video>
+    {{/if}}
+  </div>
+
+  <a {{action 'toggleImageSize'}} class="image" >
+    <img src="{{rental.image}}" alt="">
+    {{#if isWide}}
+      <small>View Smalller</small>
+    {{else}}
+      <small>View Larger</small>
+    {{/if}}
+  </a>
+
+  <h3>{{rental.title}}</h3>
+
+  <div class="detail owner">
+    <span>Owner:</span> {{rental.owner}}
+  </div>
+  <div class="detail type">
+    <span>Type:</span> {{rental-property-type rental.type}} - {{rental.type}}
+  </div>
+  <div class="detail location">
+    <span> Location:</span> {{rental.city}}
+  </div>
+  <div class="detail bedrooms">
+    <span>Number of bedrooms:</span> {{rental.bedrooms}}
+  </div>
+</article>
